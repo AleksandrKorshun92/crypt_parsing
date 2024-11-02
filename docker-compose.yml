@@ -1,0 +1,28 @@
+version: '3.8'
+
+services:
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - .:/app
+    ports:
+      - "8000:8000"
+    depends_on:
+      - client
+    networks:
+      - my_network
+  
+  client:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    command: ["python", "clients.py"]
+    volumes:
+      - .:/app
+    networks:
+      - my_network
+
+networks:
+  my_network:
