@@ -14,3 +14,37 @@
 2024-11-02 20:17:23,127 - INFO - connection_db 
 2024-11-02 20:18:39,237 - INFO - connection_db 
 2024-11-02 20:18:46,810 - INFO - connection_db 
+2024-11-02 17:46:43,188 - INFO - connection_db 
+2024-11-02 17:46:43,237 - WARNING - Error entering currency name
+2024-11-02 17:47:40,459 - INFO - connection_db 
+2024-11-02 17:47:58,379 - INFO - connection_db 
+2024-11-02 17:48:12,862 - INFO - connection_db 
+2024-11-02 17:48:53,620 - INFO - connection_db 
+2024-11-02 17:50:00,191 - INFO - connection_db 
+2024-11-03 07:40:43,309 - INFO - connection_db 
+2024-11-03 07:58:28,429 - INFO - connection_db 
+2024-11-03 07:58:37,100 - INFO - connection_db 
+2024-11-03 07:59:51,970 - INFO - connection_db 
+2024-11-03 08:00:02,610 - INFO - connection_db 
+2024-11-03 08:01:18,577 - INFO - connection_db 
+2024-11-03 08:01:33,178 - INFO - connection_db 
+2024-11-03 08:01:33,180 - WARNING - Error entering currency name or date
+2024-11-03 08:02:06,244 - INFO - connection_db 
+2024-11-03 08:03:31,878 - INFO - connection_db 
+2024-11-03 08:03:31,879 - WARNING - Error entering currency name or date
+2024-11-03 08:25:01,994 - INFO - start parsing
+2024-11-03 08:25:03,310 - WARNING - Операционная ошибка базы данных: near ")": syntax error
+2024-11-03 08:25:03,311 - WARNING - Операционная ошибка базы данных: near ")": syntax error
+2024-11-03 08:25:43,943 - INFO - connection_db 
+2024-11-03 08:26:03,340 - INFO - start parsing
+2024-11-03 08:26:05,683 - WARNING - Операционная ошибка базы данных: near ")": syntax error
+2024-11-03 08:26:05,683 - WARNING - Операционная ошибка базы данных: near ")": syntax error
+2024-11-03 08:27:05,727 - INFO - start parsing
+2024-11-03 08:27:11,998 - WARNING - Операционная ошибка базы данных: near ")": syntax error
+2024-11-03 08:27:11,998 - WARNING - Операционная ошибка базы данных: near ")": syntax error
+2024-11-03 08:28:12,044 - INFO - start parsing
+2024-11-03 08:28:13,413 - WARNING - Операционная ошибка базы данных: near ")": syntax error
+2024-11-03 08:28:13,414 - WARNING - Операционная ошибка базы данных: near ")": syntax error
+2024-11-03 08:29:13,443 - INFO - start parsing
+2024-11-03 08:29:17,292 - WARNING - Операционная ошибка базы данных: near ")": syntax error
+2024-11-03 08:29:17,292 - WARNING - Операционная ошибка базы данных: near ")": syntax error

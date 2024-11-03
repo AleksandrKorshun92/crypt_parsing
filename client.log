@@ -1,0 +1,16 @@
+2024-11-03 08:30:11,620 - INFO - start parsing
+2024-11-03 08:30:12,876 - WARNING - Операционная ошибка базы данных: near ")": syntax error
+2024-11-03 08:30:12,877 - WARNING - Операционная ошибка базы данных: near ")": syntax error
+2024-11-03 08:31:12,921 - INFO - start parsing
+2024-11-03 08:31:34,665 - INFO - start parsing
+2024-11-03 08:31:35,959 - ERROR - Произошла непредвиденная ошибка: Cannot operate on a closed database.
+Traceback (most recent call last):
+  File "/home/aleksander/Рабочий стол/саморазвитие/собеседование/deribit_api/client.py", line 83, in save_price_db
+    cur.execute("INSERT INTO prices(ticker_usd, price,timestamp) VALUES(?, ?, ?)",(ticker_usd,price,unix_timestamp))
+sqlite3.ProgrammingError: Cannot operate on a closed database.
+2024-11-03 08:35:44,038 - INFO - start parsing
+2024-11-03 08:36:45,452 - INFO - start parsing
+2024-11-03 08:36:50,511 - ERROR - Ошибка при получении цены для btc_usd: Cannot connect to host www.deribit.com:443 ssl:default [Temporary failure in name resolution]
+2024-11-03 08:37:54,702 - INFO - start parsing
+2024-11-03 08:38:56,330 - INFO - start parsing
+2024-11-03 08:39:59,905 - INFO - start parsing
