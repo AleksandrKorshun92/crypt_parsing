@@ -48,3 +48,10 @@
 2024-11-03 08:29:13,443 - INFO - start parsing
 2024-11-03 08:29:17,292 - WARNING - Операционная ошибка базы данных: near ")": syntax error
 2024-11-03 08:29:17,292 - WARNING - Операционная ошибка базы данных: near ")": syntax error
+2024-11-03 05:50:17,358 - INFO - connection_db 
+2024-11-03 05:50:17,436 - WARNING - Error entering currency name
+2024-11-03 05:50:59,094 - INFO - connection_db 
+2024-11-03 05:51:16,832 - INFO - connection_db 
+2024-11-03 05:51:49,255 - INFO - connection_db 
+2024-11-03 13:23:10,236 - INFO - connection_db 
+2024-11-03 13:23:36,394 - INFO - connection_db 
